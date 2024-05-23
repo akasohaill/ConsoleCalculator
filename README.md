@@ -17,9 +17,4 @@ A simple console-based calculator implemented in C#. This application allows use
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
 
-### Running the Calculator
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/ConsoleCalculator.git
-   cd ConsoleCalculator
