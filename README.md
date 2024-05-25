@@ -1,4 +1,4 @@
-# Console Calculator
+# Console Calculator using C#
 
 A simple console-based calculator implemented in C#. This application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
